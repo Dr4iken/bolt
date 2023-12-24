@@ -7,3 +7,6 @@ tsconfig.json
 .vscode/
 package-lock.json
 test.js
+bolt-0.0.10.tgz
+.github/
+src/posts-example.ts
