@@ -4,3 +4,4 @@ dist/
 test.js
 bolt-0.0.10.tgz
 .DS_Store
+.github/
