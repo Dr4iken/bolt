@@ -1,0 +1,32 @@
+{
+  "name": "xsignals",
+  "version": "0.0.1",
+  "description": "A simple Signal Library for Typescript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "prepack": "npm run build",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "signals",
+    "react signals",
+    "useSignal"
+  ],
+  "author": "Draiken",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@draiken"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

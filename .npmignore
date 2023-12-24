@@ -1,0 +1,9 @@
+# .npmignore
+
+# Excluir archivos y carpetas que no se deben incluir en el paquete distribuible
+src/
+types/
+tsconfig.json
+.vscode/
+package-lock.json
+test.js
