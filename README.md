@@ -1,5 +1,5 @@
 
-# xsignals.js
+# xsignals.js *deprecated info, i need update.
 
 A lightweight and minimalistic library that provides a simple implementation of the observer pattern, commonly known as signals, for React applications.
 ## Installation
